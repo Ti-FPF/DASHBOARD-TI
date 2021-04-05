@@ -1,0 +1,15 @@
+tr
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    table-layout: fixed;
+}
+#smp
+{
+    font-size: 14px;
+}
+
+th
+{
+    font-size: 20px;
+}
